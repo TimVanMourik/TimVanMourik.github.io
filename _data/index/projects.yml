@@ -13,21 +13,38 @@
   i18n: MATLAB
   gh_user: TimVanMourik
   repo: OpenFmriAnalysis
-  img:
+  img: /static/assets/img/landing/braincube.png
   desc: This is a toolbox for (laminar) fMRI analysis
 
-- name: Giraffe
+- name: GiraffeTools
   i18n: Javascript
-  gh_user: TimVanMourik
+  gh_user: GiraffeTools
   repo: GiraffeTools
   url: https://www.giraffe.tools
-  img: /static/assets/img/landing/giraffe_tools.jpg
+  img: /static/assets/img/landing/giraffetools_logo.png
   desc: This is project that creates reproducible analysis pipelines
 
 - name: Armadillo
   i18n: Javascript
   gh_user: TimVanMourik
   repo: Armadillo
-  url: https://www.armadillobrain.app
-  img: /static/assets/img/landing/armadillo.jpg
+  url: https://www.armadillobrain.herokuapp.com
+  img: /static/assets/img/landing/armadillo.png
   desc: Augmented Reality brains
+
+- name: Thesis
+  i18n: LaTeX
+  gh_user: TimVanMourik
+  repo: Thesis
+  url: https://timvanmourik.com/thesis/
+  img: /static/assets/img/landing/porcupine-thesis.png
+  desc: My PhD thesis
+
+- name: Layer specific fMRI pipeline
+  i18n: MATLAB, Python
+  gh_user: TimVanMourik
+  repo: LayerAttention
+  url: https://giraffe.tools/porcupine/TimVanMourik/LayerAttention
+  img: /static/assets/img/landing/pipeline.png
+  desc: Layer specific fMRI analysis pipelines on a visual attention task
+
