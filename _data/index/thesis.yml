@@ -1,10 +1,12 @@
 # chapters section data
 - title: 'Chapter 1: Recursive Boundary Registration'
   description: A tool for distortion correction
+  link: https://www.biorxiv.org/content/10.1101/248120v2
   id: ch_rbr
 
 - title: 'Chapter 2: Laminar Spatial GLM'
   description: A way of obtaining laminar (f)MRI signal
+  link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212493
   id: ch_layerglm
 
 - title: 'Chapter 3: Layer-specific Attention'
@@ -13,4 +15,5 @@
 
 - title: 'Chapter 4: Porcupine'
   description: A tool to visually program your analysis
+  link: https://journals.plos.org/ploscompbiol/article/authors?id=10.1371/journal.pcbi.1006064
   id: ch_porcupine

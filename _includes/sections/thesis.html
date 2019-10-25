@@ -18,7 +18,11 @@
       <div class="col-sm-3 wow {% if loopindex == 1 %} fadeInLeft {% else if loopindex == 2 %} zoomIn {% else %} fadeInRight {% endif %}">
         {% endif %}
       <div class="team-member">
+        <a
+          href={{ chapter.link }}
+        >
           <h4><span class="navy">{{ chapter.title }}</span> </h4>
+        </a>
           <p>{{ chapter.description }}</p>
           <!-- <ul class="list-inline social-icon">
               <li><a href="{{ link.website }}" target="blank"><i class="fa fa-link"></i></a>
